@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '6752'
     url: http://www.gutenberg.org/2009/agents/6752
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Waley
+covers:
+- cover_type: archival
+  image_path: 75852-h/images/cover.jpg
 creator:
   author:
     agent_name: Murasaki Shikibu
@@ -23,6 +26,8 @@ creator:
     - https://ja.wikipedia.org/wiki/%E7%B4%AB%E5%BC%8F%E9%83%A8
     - https://en.wikipedia.org/wiki/Murasaki_Shikibu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75852#A-wreath-of-cloud-b-Being-the-third-part-of-The-tale-of-Genji-
 gutenberg_issued: '2025-04-13'
 gutenberg_type: Text
 identifiers:
